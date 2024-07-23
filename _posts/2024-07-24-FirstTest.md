@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "github blog first test!"
+title:  "용문고 교육봉사!"
 ---
 
 # 용문고등학교 교육봉사 KOSS
