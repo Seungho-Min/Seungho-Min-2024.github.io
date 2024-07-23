@@ -1,0 +1,7 @@
+---
+layout: single
+title:  "github blog first test!"
+---
+
+# 용문고등학교 교육봉사 KOSS
+'용문고등학교 github blog 만들기' 교육을 위한 테스트입니다.
